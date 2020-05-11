@@ -3,8 +3,6 @@ use clap::{App, Arg};
 use std::fs::File;
 use std::io::prelude::*;
 
-mod test_struct;
-
 fn main() {
     let matches = App::new("cargo-jumpstart")
         .version("0.1.0")
