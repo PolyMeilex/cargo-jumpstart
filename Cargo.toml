@@ -3,6 +3,10 @@ name = "jumpstart"
 version = "0.1.0"
 authors = ["Poly <marynczak.bartlomiej@gmail.com>"]
 edition = "2018"
+licence = "GPL-3.0"
+description="Util for Rust file scaffolding"
+repository = "https://github.com/PolyMeilex/cargo-jumpstart"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -1,2 +1,3 @@
 # cargo-jumpstart
-# cargo-jumpstart
+
+Util for Rust file scaffolding

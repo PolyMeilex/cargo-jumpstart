@@ -7,7 +7,7 @@ mod test_struct;
 
 fn main() {
     let matches = App::new("cargo-jumpstart")
-        .version("1.0")
+        .version("0.1.0")
         .author("Poly <marynczak.bartlomiej@gmail.com>")
         .about("Util for rust file scaffolding")
         .subcommand(
