@@ -15,8 +15,6 @@ fn main() {
         )
         .get_matches();
 
-    // print!("{:#?}", matches);
-
     if let Some(c) = matches.subcommand_matches("object") {
         if let Some(o) = c.value_of("name") {
             let file_str = format!(
